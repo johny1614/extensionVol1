@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89fc7a9b-7393-4bf1-a8da-ac7416a71c58" name="Default Changelist" comment="" />
+    <list default="true" id="89fc7a9b-7393-4bf1-a8da-ac7416a71c58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/popup.html" beforeDir="false" afterPath="$PROJECT_DIR$/popup.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1d0BYHGCyxccHISegxZODQZwotD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -36,11 +46,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591552175928</updated>
-      <workItem from="1591552177032" duration="428000" />
+      <workItem from="1591552177032" duration="1591000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="1426" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591552914513">
+      <screen x="121" y="1103" width="1680" height="1027" />
+    </state>
+    <state x="519" y="1426" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/121.1103.1680.1027@121.1103.1680.1027" timestamp="1591552914513" />
   </component>
 </project>

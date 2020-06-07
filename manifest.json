@@ -7,5 +7,10 @@
 			"js": ["content.js"],
 			"matches": ["<all_urls>"]
 		}
-	]
+	],
+	"browser_action": {
+		"default_icon": "PISF.png",
+		"default_popup": "popup.html",
+		"default_title": "FoxRedux app "
+	}
 }
