@@ -1,1 +1,1 @@
-console.log('content dziala!')
+console.log('content dziala!', window)
