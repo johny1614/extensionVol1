@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89fc7a9b-7393-4bf1-a8da-ac7416a71c58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storeLogger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/popup.html" beforeDir="false" afterPath="$PROJECT_DIR$/popup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrx-source-code" beforeDir="false" afterPath="$PROJECT_DIR$/ngrx-source-code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/popup.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +33,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/ngrx-source-code/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,5 +62,13 @@
       <screen x="121" y="1103" width="1680" height="1027" />
     </state>
     <state x="519" y="1426" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/121.1103.1680.1027@121.1103.1680.1027" timestamp="1591552914513" />
+    <state x="619" y="1373" width="711" height="486" key="find.popup" timestamp="1591562386273">
+      <screen x="121" y="1103" width="1680" height="1027" />
+    </state>
+    <state x="619" y="1373" width="711" height="486" key="find.popup/0.23.1920.1057/121.1103.1680.1027@121.1103.1680.1027" timestamp="1591562386273" />
+    <state x="626" y="1330" width="670" height="676" key="search.everywhere.popup" timestamp="1591563016762">
+      <screen x="121" y="1103" width="1680" height="1027" />
+    </state>
+    <state x="626" y="1330" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/121.1103.1680.1027@121.1103.1680.1027" timestamp="1591563016762" />
   </component>
 </project>

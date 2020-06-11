@@ -1,3 +1,4 @@
 .idea/*
 .idea/workspace.xml
 ngrx-source-code/*
+/.idea/
