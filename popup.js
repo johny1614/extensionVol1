@@ -1,15 +1,7 @@
-assignCallback('btn-get-store', getStore);
 assignCallback('btn-jira-my-not-done', goJiraMyNotDone);
 assignCallback('btn-jira-agile-open', goJiraAgileOpenBugs);
 assignCallback('btn-bp-overview', goOverwiew);
 assignCallback('btn-bp-board2', goBoard2);
-
-function getStore() {
-	console.log('get store TODO!')
-	tab = chrome.tabs.query({active: true}, (tabs) => {
-		chrome.tabs.sendMessage(tabs[0].id, 'give me store!')
-	})
-}
 
 function goJiraMyNotDone() {
 	var newURL = "https://jira.softwareplant.com/issues/?filter=20112&jql=assignee%20%3D%20currentUser()%20AND%20status%20not%20in%20(Closed%2C%20Done%2C%20%22Waiting%20for%20Release%22)%20and%20project%20!%3D%20%22SP%20OutOfOffice%22%20ORDER%20BY%20status%20ASC";

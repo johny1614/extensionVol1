@@ -1,4 +1,9 @@
-Uznajmy ze na razie chce aby mozna bylo kliknac w ikonke w zakladkach
-i ona wyswietli popup i tam button ktory zloguje jaki jest store
 
-Bedzie to zatem pop-up ktory wysyla info do content scriptu.
+
+Powiedzmy, ze chcemy miec historie store'a.
+W ogóle wyswietlic sobie pod F12.
+
+
+
+
+
