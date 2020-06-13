@@ -10,4 +10,8 @@ function logStore() {
 		this.remove();// to jest <script storeLogger.js> usuwamy go potem jesli juz nie jest potrzebny
 	};
 	(document.head || document.documentElement).appendChild(s);
+	// chrome.runtime.sendMessage(window.myStore)
+	chrome.runtime.sendMessage({greeting: "hello from content"}, function(response) {
+		console.log(response.farewell);
+	});
 }
