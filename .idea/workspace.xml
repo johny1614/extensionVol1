@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="89fc7a9b-7393-4bf1-a8da-ac7416a71c58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devToolsPanel.html" beforeDir="false" afterPath="$PROJECT_DIR$/devToolsPanel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devToolsPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/devToolsPanel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ngrx-source-code" beforeDir="false" afterPath="$PROJECT_DIR$/ngrx-source-code" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ngrx-source-code/projects/example-app/src/app/books/books.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ngrx-source-code/projects/example-app/src/app/books/books.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storeLogger.js" beforeDir="false" afterPath="$PROJECT_DIR$/storeLogger.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,7 @@
       <workItem from="1591552177032" duration="1591000" />
       <workItem from="1591905026197" duration="2715000" />
       <workItem from="1591910367482" duration="2934000" />
-      <workItem from="1591976124982" duration="6202000" />
+      <workItem from="1591976124982" duration="16875000" />
     </task>
     <servers />
   </component>
@@ -142,10 +137,10 @@
     </state>
     <state x="569" y="301" width="813" height="501" key="find.popup/0.23.1920.1057/121.1103.1680.1027@0.23.1920.1057" timestamp="1592087049208" />
     <state x="619" y="1373" width="711" height="486" key="find.popup/0.23.1920.1057/121.1103.1680.1027@121.1103.1680.1027" timestamp="1591562386273" />
-    <state x="577" y="257" width="766" height="696" key="search.everywhere.popup" timestamp="1592086188175">
+    <state x="577" y="257" width="766" height="696" key="search.everywhere.popup" timestamp="1592133946650">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="577" y="257" width="766" height="696" key="search.everywhere.popup/0.23.1920.1057/121.1103.1680.1027@0.23.1920.1057" timestamp="1592086188175" />
+    <state x="577" y="257" width="766" height="696" key="search.everywhere.popup/0.23.1920.1057/121.1103.1680.1027@0.23.1920.1057" timestamp="1592133946650" />
     <state x="626" y="1330" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/121.1103.1680.1027@121.1103.1680.1027" timestamp="1591910849464" />
   </component>
 </project>
